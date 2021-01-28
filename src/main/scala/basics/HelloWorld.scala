@@ -10,6 +10,7 @@ object HelloWorld {
     println("What is your name?")
     val name = readLine().trim()
     println(s"Hello $name!")
+	println("Let's put this in github")
 	}
 	
 	def square(x: Double) = x*x
